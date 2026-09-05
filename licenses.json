@@ -1,10 +1,10 @@
 {
-  "_comment": "Remote kill-switch, keyed by Machine ID. A machine listed here with active:false is blocked the next time the app checks, and again within a few minutes if it is already open. A machine NOT listed is allowed - this file only ever takes access away, it never grants it. Setting active back to true restores the machine.",
-  "_example": {
+  "_COMMENT": "Remote kill-switch, keyed by Machine ID. A machine listed here with active:false is blocked the next time the app checks, and again within a few minutes if it is already open. A machine NOT listed is allowed - this file only ever takes access away, it never grants it. Setting active back to true restores the machine.",
+  "_EXAMPLE": {
     "8E5ABDD396D53501": {
+      "active": true,
       "customer": "Indojewel Jewellery Pvt Ltd",
-      "expiry": "2027-03-31",
-      "active": true
+      "expiry": "2027-03-31"
     }
   }
 }
