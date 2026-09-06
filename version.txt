@@ -1,1 +1,1 @@
-1.0|https://github.com/digitalautomationgrowth/indojewel-app-updates/releases/download/v1.0/INDOJEWEL_Invoice_Processor.exe|INDOJEWEL_Invoice_Processor.exe
+1.2|https://github.com/digitalautomationgrowth/indojewel-app-updates/releases/download/v1.2/INDOJEWEL_Invoice_Processor.exe
