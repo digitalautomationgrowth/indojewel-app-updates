@@ -1,3 +1,2 @@
-INDOJEWEL — V1.0
-
+INDOJEWEL — V1.1
 First release.
