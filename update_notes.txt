@@ -1,2 +1,5 @@
-New Updated Version 1.2
-Updated :-  HSN code,  Watstage % ,  Payment Instruction ,  Terms of Payment (Annexure-A)
+What's updated:
+
+-Gold Plain Handcrafted now shows 2.25% everywhere
+-Quantity now matches
+-Annexure-A "Terms of Delivery" now follows the term
